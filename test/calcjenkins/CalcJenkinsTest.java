@@ -110,7 +110,7 @@ public class CalcJenkinsTest {
         result = instance.multiplier(a, b);
         assertEquals(expResult, result);
     }
-
+/**/
     /**
      * test de la division
      */
